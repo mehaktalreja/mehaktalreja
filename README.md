@@ -1,16 +1,18 @@
-## Hi there 👋
+ Hi there, I'm Mehak! 👋
 
-<!--
-**mehaktalreja/mehaktalreja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Frontend Developer | UI/UX Enthusiast  
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about creating interactive and user-friendly web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 🚀 About Me
+🔭 Currently working on: Enhancing my projects and learning new technologies.
+💻 Working on: Academic & personal projects
+🎯 Goal: Become a skilled Software Developer
+📫 Reach me at: talrejamehak32@gmail.com  
+⚡ Fun Fact :I love turning ideas into reality through code 💡
+
+ 
+ 🛠️ Languages & Tools
+HTML | CSS | JavaScript | GitHub | VS Code
